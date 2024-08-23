@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Brian Hazel
+Main-Class: Bienvenida
+X-COMMENT: Curso Java
+
